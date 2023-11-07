@@ -1,4 +1,4 @@
-# Ex.No13_Learning_miniproject.md
+
 # Ex.No: 13 Learning – Use Supervised Learning  
 ### DATE:                                                                            
 ### REGISTER NUMBER : 212222040039
